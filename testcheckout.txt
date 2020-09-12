@@ -1,1 +1,3 @@
 The content of the file to test checkout file functinality.
+Creating conflict1
+adding new line to the file
