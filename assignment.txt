@@ -1,0 +1,26 @@
+1. To install nano editor, on terminal type yum install nano
+2. To open file in nano editor, on terminal type nano <file name> 
+3. Develope/write code and using Ctrl o save the file
+4. Ctrl w - search for a string in the file you are editting
+5. Ctrl space - go forward one word in a line
+6. Alt space - go backward one word in a line
+7. Ctrl a - go to the begining of the line
+8. Ctrl e - go to the end of the line 
+9. Ctrl w and then ctrl v - go the last line of the file
+10. Ctrl K - cut the current line and save it to nano's clipboard
+11. Ctrl + Shift + 6 - select the text and the copy or cut that text 
+12. Alt 6 - copy current line into the clipboard 
+12. Ctrl u - paste the text from nano 's clipboard
+13. Alt a - Turn the mark on/off
+14. Ctrl w, alt w - search for text , move to next match
+15. ctrl y/ctrl v - move page up and down
+16. arrows keys - move cursor up and down , left and right
+17. ctrl \ - search and replace
+
+
+
+
+
+
+
+

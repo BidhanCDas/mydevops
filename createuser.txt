@@ -1,0 +1,10 @@
+#!/bin/bash
+HI="Hello World"
+echo $HI
+# Create new user
+read -p 'Enter the full name of the user: ' USER_FULL_NAME
+read -p 'Enter the name of the user: ' USER_NAME
+read -p 'Enter password: ' PASSWORD
+useradd -c "${USER_FULL_NAME}" -m ${USER_NAME}
+echo ${PASSWORD} | passwd --stdin ${USER_NAME}
+passwd -e ${USER_NAME}
